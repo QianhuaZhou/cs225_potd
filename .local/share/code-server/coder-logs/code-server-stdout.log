@@ -1,0 +1,32 @@
+[2024-10-18T16:51:22.308Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2024-10-18T16:51:22.309Z] info  Using user-data-dir /.code-server/data
+[2024-10-18T16:51:22.365Z] info  Using config file /.code-server/config.yaml
+[2024-10-18T16:51:22.365Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2024-10-18T16:51:22.365Z] info    - Authentication is disabled 
+[2024-10-18T16:51:22.366Z] info    - Not serving HTTPS 
+[16:51:23] 
+
+
+
+
+[16:51:23] Extension host agent started.
+[16:51:24] [10.0.88.15][13a6c6aa][ManagementConnection] New connection established.
+[16:51:25] [10.0.88.15][13b72768][ExtensionHostConnection] New connection established.
+[16:51:25] [10.0.88.15][13b72768][ExtensionHostConnection] <55> Launched Extension Host Process.
+[16:56:52] [10.0.88.15][13a6c6aa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:56:52] [10.0.88.15][13b72768][ExtensionHostConnection] <55> Extension Host Process exited with code: 0, signal: null.
+[2024-10-20T05:25:18.529Z] info  code-server 4.9.1 f7989a4dfcf21085e52157a01924d79d708bcc05
+[2024-10-20T05:25:18.535Z] info  Using user-data-dir /.code-server/data
+[2024-10-20T05:25:18.590Z] info  Using config file /.code-server/config.yaml
+[2024-10-20T05:25:18.591Z] info  HTTP server listening on http://0.0.0.0:8080/ 
+[2024-10-20T05:25:18.592Z] info    - Authentication is disabled 
+[2024-10-20T05:25:18.593Z] info    - Not serving HTTPS 
+[05:25:18] 
+
+
+
+
+[05:25:19] Extension host agent started.
+[05:25:20] [10.0.62.31][891340e4][ManagementConnection] New connection established.
+[05:25:21] [10.0.62.31][f2baa4ad][ExtensionHostConnection] New connection established.
+[05:25:21] [10.0.62.31][f2baa4ad][ExtensionHostConnection] <56> Launched Extension Host Process.
