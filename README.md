@@ -1,1 +1,1 @@
-## UIUC CS225 POTDs (24Fall)
+# UIUC CS225 POTDs (24Fall)
